@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Venkata Sai Esampalli</h1>
+<h3 align="center">A Front End Web Developer specializing in JavaScript Technologies across the whole stack. Experience building web applications with backend API systems.</h3>
 
-<!--
-**venkatkvikram/venkatkvikram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatkvikram&label=Profile%20views&color=0e75b6&style=flat" alt="vn" /> </p>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **React and React-native**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Vue**
+<!-- 
+- 👨‍💻 All of my projects are available at [https://coders-blog-tk.vercel.app/](https://coders-blog-tk.vercel.app/)
+
+- 📝 I regularly write articles on [https://coders-blog-tk.vercel.app/](https://coders-blog-tk.vercel.app/) -->
+
+- 💬 Ask me about **React, React-Native, NextJS**
+
+- 📫 How to reach me **venkatsai.esampalli@gmail.com**
