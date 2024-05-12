@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Esampalli</h1>
-<h3 align="center">A Front End Web Developer specializing in JavaScript Technologies across the whole stack. Experience building web applications with backend API systems.</h3>
+<h3 align="center">A Full Stack Web Developer specializing in JavaScript Technologies across the whole stack. Experience building web applications with backend API systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatkvikram&label=Profile%20views&color=0e75b6&style=flat" alt="venkatkvikram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=venkatkvikram" alt="venkatkvikram" /></a> </p>
 
-- 🔭 I’m currently working on **React,React-native and Next.js**
+- 🔭 I’m currently working on **React,React-native,Next.js,NodeJs and NestJs**
 
 - 🌱 I’m currently learning **Vue**
 
