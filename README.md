@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/venkatkvikram?tab=repositories](https://github.com/venkatkvikram?tab=repositories)
 
-- 💬 Ask me about **React, Reactnative, Nextjs**
+- 💬 Ask me about **React, Reactnative, Nextjs, Node.js**
 
 - 📫 How to reach me **venkatsai.esampalli@gmail.com**
 
