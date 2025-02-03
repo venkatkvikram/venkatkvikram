@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React,React-native,Next.js,NodeJs and NestJs**
 
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **Nest Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/venkatkvikram?tab=repositories](https://github.com/venkatkvikram?tab=repositories)
 
